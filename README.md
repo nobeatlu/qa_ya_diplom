@@ -1,0 +1,1 @@
+# qa_ya_diplom
